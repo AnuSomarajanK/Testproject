@@ -202,14 +202,20 @@ button:hover{
 .events{
     margin: 20px;
 
+
 }
 
 .events h1{
     text-align: center;
-    color: aqua;
+    color: rgb(12, 14, 14);
     font-size: 200%;
 }
 
 .sample h4{
     text-align: center;
+}
+.container h1{
+    padding: 20px;
+    color: black;
+
 }
