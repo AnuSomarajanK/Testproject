@@ -3,6 +3,10 @@
     padding: 0%;
     
 }
+html{
+    scroll-behavior: smooth;
+}
+
  .appa{
      width: 100%;
      height: 60vh;
@@ -195,3 +199,17 @@ button:hover{
 
 }
 
+.events{
+    margin: 20px;
+
+}
+
+.events h1{
+    text-align: center;
+    color: aqua;
+    font-size: 200%;
+}
+
+.sample h4{
+    text-align: center;
+}
